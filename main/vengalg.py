@@ -141,26 +141,3 @@ class VengAlg():
         for i in range(len(self.matrix)):
             for j in list(cols):
                 self.matrix[i][j] += minimum
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
